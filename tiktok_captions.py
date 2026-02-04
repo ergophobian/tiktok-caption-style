@@ -31,7 +31,7 @@ TIKTOK_STYLE = {
     "line_height_ratio": 1.06,     # Very tight line spacing
     "fill_color": "#FFFFFF",
     "stroke_color": "#000000",
-    "stroke_width": 3,
+    "stroke_width": 4,
     "max_width_ratio": 0.88,
     "margin_top_ratio": 0.18,      # 18% from top (TikTok upper-middle position)
 }

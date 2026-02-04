@@ -20,7 +20,7 @@ This repo contains:
 | Font | TikTok Sans 36pt SemiBold | Not Bold - SemiBold matches exactly |
 | Size | **5.1% of width** | ~42px at 828px, ~55px at 1080px |
 | Line height | **1.06 ratio** | Very tight spacing |
-| Stroke | 3px black (#000000) | Clean, readable |
+| Stroke | 4px black (#000000) | Clean, readable |
 | Fill | White (#FFFFFF) | May need #F0F0F0 to compensate for Pillow's brighter rendering |
 | Position | 18% from top | TikTok's "upper-middle" placement |
 | Max width | 88% of image width | Prevents edge overflow |
