@@ -98,4 +98,4 @@ These are official fonts from TikTok's open-source release.
 
 ## Credits
 
-Research and implementation by [@kylekumar](https://github.com/kylekumar)
+Research and implementation by [@ergophobian](https://github.com/ergophobian)
